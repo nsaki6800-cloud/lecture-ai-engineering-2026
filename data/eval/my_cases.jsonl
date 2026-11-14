@@ -1,0 +1,2 @@
+{"id": "01", "category": "正常系", "question": "LoRAとは何ですか？", "answer": "", "reference": {"glossary": ["lora"], "expected": "用語集の定義に沿ってLoRAを説明し、第2回との関係を示す。"}}
+{"id": "02", "category": "講座外", "question": "今日の夕食はなんですか？", "answer": "", "reference": {"glossary": [], "expected": "その質問については、講座の内容ではないので答えられません。"}}
